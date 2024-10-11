@@ -7,4 +7,4 @@ https://colab.research.google.com/drive/1Zdz3pcNlsjKtd_e07frmRztKCF_OTUTw
 An example dataset can be found in google drive:
 https://drive.google.com/file/d/1Wu8D9GcieyrdD_WA1ayw9gIgmIsejv7Z/view?usp=sharing
 
-To run, simply upload the provided data and step through the code blocks one-by-one.
+To run, simply step through the code blocks one-by-one. The CoLab will automatically pull in the dataset.
